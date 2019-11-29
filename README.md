@@ -1,7 +1,7 @@
 # Geode-linux-dnscrypt-proxy
 AMD Geode specific build of dnscrypt-proxy 2.0.34-beta1 (maintainer provided i386 binaries fail due to use of SSE instructions)
 
-Using [How to build dnscrypt-proxy](https://github.com/dnscrypt/dnscrypt-proxy/wiki/building-from-source) instructions, having previously compile go with ```https://github.com/dnscrypt/dnscrypt-proxy/wiki/building-from-source``` as per [here](https://github.com/rhy-ama/Geode-linux-go)
+Using [How to build dnscrypt-proxy](https://github.com/dnscrypt/dnscrypt-proxy/wiki/building-from-source) instructions, having previously compiled go with ```https://github.com/dnscrypt/dnscrypt-proxy/wiki/building-from-source``` as per [here](https://github.com/rhy-ama/Geode-linux-go)
 
 Prerequisites: go and git
 
