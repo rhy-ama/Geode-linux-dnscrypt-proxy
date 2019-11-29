@@ -5,6 +5,8 @@ Using [How to build dnscrypt-proxy](https://github.com/dnscrypt/dnscrypt-proxy/w
 
 Prerequisites: go and git
 
+Note: walkthrough to compile the linux Geode specific go version are [here](https://github.com/rhy-ama/Geode-linux-go)
+
 1. Create your working directory
 
 2. Clone the dnscrypt proxy repo
