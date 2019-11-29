@@ -1,5 +1,5 @@
 # Geode-linux-dnscrypt-proxy
-Geode specific buid of dnscrypt-proxy 2.0.34-beta1
+AMD Geode specific buid of dnscrypt-proxy 2.0.34-beta1
 
 Using [How to build dnscrypt-proxy](https://github.com/dnscrypt/dnscrypt-proxy/wiki/building-from-source) instructions, having previously compile go with ```https://github.com/dnscrypt/dnscrypt-proxy/wiki/building-from-source``` as per [here](https://github.com/rhy-ama/Geode-linux-go)
 
