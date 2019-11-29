@@ -36,6 +36,8 @@ go build -ldflags="-s -w" -o $GOPATH/linux-i386-geode/dnscrypt-proxy
 
 The resulting binary will be under /dnscrypt-proxy-src/src/dnscrypt-proxy/linux-i386-geode/
 
+5. I would recommend to download the same package as the one we compiled (2.0.34-beta1 for your reference) and untar it to ```/opt/dnscrypt-proxy``` or similar, replace the binary and reset the permissions as required.
+
 For your convinience and subject to all relevant legal terms, this repo has the binary in the /bin directory compiled 29/11/2019.
 
 Note that dnscrypt-proxy is licensed under [these](https://github.com/DNSCrypt/dnscrypt-proxy/blob/master/LICENSE) terms and have the following copyright notice ``` Copyright (c) 2018 Frank Denis <j at pureftpd dot org>```
