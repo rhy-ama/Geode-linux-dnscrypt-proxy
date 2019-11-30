@@ -42,4 +42,6 @@ For your convinience and subject to all relevant legal terms, this repo has the 
 
 Note that dnscrypt-proxy is licensed under [these](https://github.com/DNSCrypt/dnscrypt-proxy/blob/master/LICENSE) terms and have the following copyright notice ``` Copyright (c) 2018 Frank Denis <j at pureftpd dot org>```
 
+**Sources**
 
+[How to build dnscrypt-proxy](https://github.com/dnscrypt/dnscrypt-proxy/wiki/building-from-source)
